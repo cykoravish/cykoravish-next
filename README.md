@@ -1,3 +1,22 @@
+# REGISTER / LOGIN FORM WITH ZOD VALIDATION AND SHAD CN
+
+## Project
+
+![Project Screenshot](./public/project.png)
+
+- It's a front page made with next js, shad cn, zod validation, and react hook forms.
+
+## Technologies Used
+
+List the technologies and tools i've used in your project.
+
+- NEXT JS , SHAD CN, REACT HOOK FORMS, ZOD, TAILWIND CSS.
+
+## Contributing
+
+If you would like to contribute, feel free to submit issues or pull requests. I appreciate any feedback or collaboration!
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
