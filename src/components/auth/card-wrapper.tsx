@@ -23,7 +23,7 @@ export default function CardWrapper({
   children,
 }: CardwrapperProp) {
   return (
-    <Card>
+    <Card className="xl:w-1/4 md:w-1/2 shadow-md">
       <CardHeader>
         <AuthHeader label={label} title={title} />
       </CardHeader>

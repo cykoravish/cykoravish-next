@@ -8,7 +8,7 @@ interface BackButtonProp {
 
 export default function BackButton({ label, href }: BackButtonProp) {
   return (
-    <Button>
+    <Button variant="link" className="font-normal w-full" size='sm' asChild>
       <Link href={href}>{label}</Link>
     </Button>
   );
